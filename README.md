@@ -1,4 +1,6 @@
-### Hi there 👋
+# 🐾 Choi jin woo 🐾
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsgudy3)](https://solved.ac/wlsgudy3/)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlsgudy3&layout=compact)](https://github.com/wlsgudy3/github-readme-stats)
 
 <!--
 **wlsgudy3/wlsgudy3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
